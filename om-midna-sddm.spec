@@ -1,5 +1,5 @@
 Name: om-midna-sddm
-Version: 0.5.2
+Version: 0.5.3
 Release: 1
 License: GPL
 Group: Graphical desktop/KDE
